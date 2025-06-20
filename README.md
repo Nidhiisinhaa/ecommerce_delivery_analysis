@@ -22,14 +22,6 @@ Tools Used:
 -Matplotlib
 -Jupyter Notebook
 
-Project Structure:
-ecommerce_delivery_analysis/
-├── data/
-│   ├── orders_dataset.csv         # Raw data
-│   └── cleaned_orders_data.csv    # Final cleaned data
-├── ecommerce_analysis.ipynb       # Complete notebook
-└── README.md                      # (this file)
-
 Key Insights:
 Certain regions consistently showed higher delivery delays
 Some product categories had more returns
